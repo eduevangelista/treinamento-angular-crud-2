@@ -10,5 +10,4 @@ Conteúdo do treinamento:
 •	Utilizei o serviço Router para recarregar um componente.
 
 
-Link do repositório :
-https://github.com/eduevangelista/treinanento2-crud-angular
+
